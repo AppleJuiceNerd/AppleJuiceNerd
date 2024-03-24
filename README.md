@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I'm currently working on learning V. That's the only interesting thing I can think of right now.
+
+<a href="https://mastodon.social/@applejuicenerd" rel="me">Follow me on Mastodon!</a>
