@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I'm currently working on learning V. That's the only interesting thing I can think of right now.
-
-<a href="https://mastodon.social/@applejuicenerd" rel="me">Follow me on Mastodon!</a>
+I don't know what to say about myself.
