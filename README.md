@@ -14,4 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I don't know what to say about myself.
+
+I don't have much to say about myself.
+
+- I am currently learning C++ in my free time
+- I am actively working on a [CHIP-8 emulator/interpreter](https://github.com/AppleJuiceNerd/CHIPPIE) in my free time
+- I am on [Mastodon](https://mastodon.social/@AppleJuiceNerd) (although quite inactive)
+- I exist
+
+Basic webpage coming soon maybe.
+
+Have a good day :) 
